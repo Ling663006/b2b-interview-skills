@@ -26,7 +26,7 @@
 在支持 `$skill-installer` 的 Codex 环境中，可直接发送：
 
 ```text
-使用 $skill-installer，从 https://github.com/Ling663006/b2b-interview-skills 安装
+使用 $skill-installer，从 https://github.com/lingvento/b2b-interview-skills 安装
 skills/interview-planning-kit 和 skills/interview-transcript-synthesis 这两个 skill。
 ```
 
