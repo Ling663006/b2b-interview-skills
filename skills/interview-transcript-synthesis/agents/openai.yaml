@@ -1,0 +1,4 @@
+interface:
+  display_name: "单次访谈报告"
+  short_description: "把单场访谈整理为匿名、依据可回查的 Word 轻量报告"
+  default_prompt: "使用 $interview-transcript-synthesis，根据这场访谈的转写、笔记和研究材料，生成一份匿名、依据可回查且基础排版的 Word 访谈报告。"
