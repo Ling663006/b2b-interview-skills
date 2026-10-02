@@ -1,0 +1,4 @@
+interface:
+  display_name: "访谈准备"
+  short_description: "按研究目标与已有材料，生成含主持提纲和轻量记录区的 Word 准备包"
+  default_prompt: "使用 $interview-planning-kit，根据我的研究目标、已有材料和行业熟悉程度，生成一份基础排版的 Word 访谈准备包。"
